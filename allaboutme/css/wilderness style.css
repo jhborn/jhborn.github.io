@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  background-color: rgb(21, 55, 10);    
+}
+  
+a {
+  padding: 0px 95px;
+}
+image {
+  width: -100%;
+}
+p {
+  width: 40%;
+  padding: 0px 5%;
+  float: left;
+  text-align: left;
+}
+section {
+  background-color: rgb(118, 71, 37);
+  height: 200px;
+}
+main  {
+  width: 57%;
+  margin: auto;
+}

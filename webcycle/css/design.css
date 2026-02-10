@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: rgb(121, 121, 121);
+    
+    }
+  
+a{
+  padding: 0px 95px
+}
+img {
+  width: 40%;
+ 
+  
+}
+ p {
+    width: 70%;
+    padding-left: 90px
+    ;
+    
+text-align: left;}
+section{
+  background-color: grey;
+height: 275px;
+width: 48%;
+margin-left: auto;
+
+}
+main  {
+  width: 57%;
+margin: auto;}
+div {
+    margin-top: 20px;
+    background-color:grey;
+
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}

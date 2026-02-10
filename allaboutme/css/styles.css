@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(217, 167, 39);
+    
+    }
+  
+    a{padding: 0px 95px}
+   image {width: -100%;}
+ p {
+    width: 40%;
+    padding: 0px 5%;
+    float: left;
+text-align: left;}
+section{background-color: rgb(203, 155, 73);
+height: 200px;}
+main  {width: 57%;
+margin: auto;}

@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(187, 145, 73);
+    
+    }
+  
+a{
+  padding: 0px 95px
+}
+img {
+  width: 48%;
+  float: right;
+}
+ p {
+    width: 40%;
+    ;
+    font-size: 175%;
+    
+text-align: left;}
+section{
+  background-color: rgb(213, 167, 92);
+height: 275px;
+width: 100%;
+margin-left: auto;
+float: left;
+}
+main  {
+  width: 57%;
+margin: auto;}
+h1{ 
+  font-family: 'Brush Script MT', cursive;
+}

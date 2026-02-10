@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: rgb(136, 116, 57);
+    
+    }
+  
+a{
+  padding: 0px 95px
+}
+img {
+  width: 48%;
+}
+ p {
+    width: 40%;
+    ;
+    
+text-align: center;}
+section{
+ 
+height: 275px;
+width: 55%;
+margin: auto;
+}
+main  {
+  width: 57%;
+margin: auto;}
+a:hover{ 
+  background-color: rgb(8, 16, 85);
+  
+}
+h2{ 
+  font-family: 'Brush Script MT', cursive;
+}
+h1{
+  font-family: 'Brush Script MT', cursive;
+}

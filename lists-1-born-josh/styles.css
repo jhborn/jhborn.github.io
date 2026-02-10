@@ -1,0 +1,25 @@
+body{
+    width: 1366px;
+    height: 768px;
+    background-color: aliceblue;
+    text-align: center;
+ }
+ div {background-color: rgb(136, 101, 101);
+    margin: auto;
+    border: solid;
+    margin-bottom: 20px;
+}
+#section{
+    width: 700px;
+    height: 600px;
+}
+hr{
+    width: 250px;
+}
+ol{
+  width: 50%;
+  margin: auto;
+  background-color: hwb(181 26% 2% / 0);
+}
+ a{padding: 0px 95px}
+ a:hover{background-color: tomato;}

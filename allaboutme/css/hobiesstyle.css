@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: rgb(121, 121, 121);
+    
+    }
+  
+a{
+  padding: 0px 95px
+}
+img {
+  width: 48%;
+}
+ p {
+    width: 40%;
+    padding: 0px 5%;
+    float: left;
+text-align: left;}
+section{
+  background-color: rgb(133, 51, 48);
+height: 275px;
+width: 48%;
+margin: auto;
+}
+main  {
+  width: 57%;
+margin: auto;}
