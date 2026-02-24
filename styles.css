@@ -12,7 +12,7 @@ button{
     margin: 5px;
     float: left;
     width: 350px;
-    background-color: bisque;
+   background-color: rgb(133, 127, 127);
 }
 main{
    width: 1500px;
@@ -23,7 +23,7 @@ header{margin: auto;
 }
 
 body{
-    background-color: blanchedalmond;
+     background-color: rgb(88, 88, 88);
 }
 
 
